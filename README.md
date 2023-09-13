@@ -1,1 +1,1 @@
-# Synthix
+# synthix
